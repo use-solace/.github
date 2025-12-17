@@ -1,3 +1,11 @@
+<div align=center>
+    
+![](./assets/banner.png)
+    
+</div>
+
+---
+
 # Solace
 Solace is an AI chat platform that cares. Development begins in 2026.
 
