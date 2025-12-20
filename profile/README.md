@@ -7,7 +7,7 @@
 ---
 
 # Solace
-Solace is an AI chat platform that cares. Development begins in 2026.
+Solace is an AI chat platform that cares.
 
 
 ## Manifesto
