@@ -1,6 +1,6 @@
 <div align=center>
     
-![](./assets/banner.png)
+![](./assets/banner_.png)
     
 </div>
 
